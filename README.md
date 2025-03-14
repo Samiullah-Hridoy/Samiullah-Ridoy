@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samiullah-Ridoy
+- 👋 Hi, I’m @Samiullah-Hridoy
 - 👀 I’m interested in programming, gaming, chess & anime ofc.
 - 🌱 I’m currently learning JavaScript & Python
 - 💞️ I’m currently a CSE student, doin my undergrad at Independent University, Bangladesh (IUB)
