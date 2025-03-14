@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samiullah-Hridoy
 - 👀 I’m interested in programming, gaming, chess & anime ofc.
 - 🌱 I’m currently learning JavaScript & Python
-- 💞️ I’m currently a CSE student, doin my undergrad at Independent University, Bangladesh (IUB)
+- 💞️ I’m currently a CSE student, doing my undergrad at Independent University, Bangladesh (IUB)
 - 📫 How to reach me Email: usami2434@gmail.com or 252000@iub.edu.bd
 
 <!---
